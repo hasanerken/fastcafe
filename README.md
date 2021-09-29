@@ -1,4 +1,4 @@
-# Fast Cafe (fastcafe)
+# Fast Cafe (version1)
 
 Fast Cafe on AWS
 
